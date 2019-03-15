@@ -1,0 +1,3 @@
+2019-02-26 21:14:14,861-add-ERROR-:执行失败！期望结果是：{'code': '20106', 'msg': '借款金额 amount 必须为 大于 1000 并能被 100 整除的正整数 ', 'status': 0}，实际结果是：{'code': '10001', 'msg': '加标成功', 'status': 1, 'data': None}  -[test_E_add.py:61]
+2019-02-26 21:16:40,217-add-ERROR-:执行失败！期望结果是：{'status': 1, 'msg': '成功', 'code': '10001'}，实际结果是：{'status': 1, 'data': None, 'msg': '加标成功', 'code': '10001'}  -[test_E_add.py:61]
+2019-02-26 21:16:40,402-add-ERROR-:执行失败！期望结果是：{'status': 0, 'msg': '借款金额 amount 必须为 大于 1000 并能被 100 整除的正整数 ', 'code': '20106'}，实际结果是：{'status': 1, 'data': None, 'msg': '加标成功', 'code': '10001'}  -[test_E_add.py:61]

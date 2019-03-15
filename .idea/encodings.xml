@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/common" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/conf" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/datas" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/libext" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/logs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/reports" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/run.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test_case" charset="GBK" />
+  </component>
+</project>
